@@ -1,3 +1,4 @@
+print('Verdadeiro ou Falso para Palavras!')
 palavra = input('Digite algo para saber as informações: ')
 print('qual o tipo?')
 print(type(palavra))
